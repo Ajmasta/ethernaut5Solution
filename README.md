@@ -1,2 +1,1 @@
-Simple ethernaut 5 solution implemented in hardhat
-```
+Simple ethernaut 5 solution implemented in hardha
